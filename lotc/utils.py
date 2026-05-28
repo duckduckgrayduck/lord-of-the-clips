@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-from moviepy.editor import (
+from moviepy import (
     VideoFileClip,
     concatenate_videoclips,
 )
